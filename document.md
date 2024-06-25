@@ -1,9 +1,11 @@
 #WINDOWS
 1. Already installed on system
 
+
 #GIT INSTALLATION
 1. LINK TO SAMPLE GITHUB PAGE
 https://github.com/saybube/plpsamplerep
+
 
 2. Git bash screenshot below
 ![alt text](<GITHUB SS.png>)
@@ -14,14 +16,12 @@ https://github.com/saybube/plpsamplerep
 2. setup done according to instructions
 
 
-
 #PYTHON
 1. latest version downloaded from htttps://www.python.org
 2. followed download instructions and checked the following boxes:
     1. use admin privileges when installing py.exe
     2. add python.exe to PATH
 ![alt text](<python ss.png>)
-
 
 
 #MYSQL
@@ -36,16 +36,12 @@ https://github.com/saybube/plpsamplerep
 ![alt text](<mysql workbench ss.png>)
 
 
-
-
 #DART
 1. latest version downloaded from www.dart.dev
 2. unzip dart
 3. create dart directory
 4. add dart to PATH
 ![alt text](<dart ss.png>)
-
-
 
 
 #FLUTTER
