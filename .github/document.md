@@ -2,10 +2,11 @@
 1. Already installed on system
 
 #GIT INSTALLATION
-1. Git bash screenshot below
+1. LINK TO SAMPLE GITHUB PAGE
+https://github.com/saybube/plpsamplerep
+
+2. Git bash screenshot below
 ![alt text](<GITHUB SS.png>)
-
-
 
 
 #VSCODE INSTALLATION
